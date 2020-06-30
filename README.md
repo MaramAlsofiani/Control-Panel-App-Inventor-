@@ -4,7 +4,7 @@ Reading a HTML page stored as media file inside of App Inventor in 4 steps:
 
 Designer:
 1. click on WebViewer
-2. Upload the files in Media
+2. Upload ALL the files in Media
 
 Blocks:
 
